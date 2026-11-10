@@ -1,0 +1,22 @@
+{
+  "title": {
+    "lines": [
+      "Pana Miguel: Hoy acompañaremos a una pequeña en un paseo tranquilo.",
+      "Pana Miguel: Tus decisiones abrirán distintos caminos."
+    ]
+  },
+  "forest_intro": {
+    "lines": [
+      "Pana Miguel: Un backroom poco común...",
+      "Pana Miguel: Haz clic en mí el Pana Miguel."
+    ]
+  },
+  "kind_choice": {
+    "good": "Pana Miguel: Eso tilin",
+    "neutral": "Pana Miguel: Aprende a jugar :/"
+  },
+  "ending": {
+    "kind": "Pana Miguel: En la bondad, encontró un pequeño tesoro.",
+    "neutral": "Pana Miguel: Felicidades pequeño Tilin"
+  }
+}
